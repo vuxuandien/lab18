@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-size: cover;
+  background-image: url(https://msmobile.com.vn/upload_images/images/hinh-nen-dep-cho-may-tinh-full-hd-2.jpg);
+}
+
+.bg-img2 {
+  background-size: cover;
+  background-image: url(https://demoda.vn/wp-content/uploads/2022/01/hinh-nen-desktop.jpg);
+}
+
+.bg-img3 {
+  background-size: cover;
+  background-image: url(https://elead.com.vn/wp-content/uploads/2020/04/hinh-anh-tinh-yeu-21.jpg);
+}
+
+.carousel-item {
+  height: 32rem;
+}
